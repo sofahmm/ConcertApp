@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\bin\Debug\ConcertnicCore.exe.config
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\bin\Debug\ConcertnicCore.exe
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\bin\Debug\ConcertnicCore.pdb
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\obj\Debug\ConcertnicCore.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\obj\Debug\ConcertnicCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\obj\Debug\ConcertnicCore.exe
+C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicCore\obj\Debug\ConcertnicCore.pdb
