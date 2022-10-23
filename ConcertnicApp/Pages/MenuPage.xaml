@@ -1,0 +1,53 @@
+﻿<Page x:Class="ConcertnicApp.Pages.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ConcertnicApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MenuPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Image Source="/Img/imageZad.png"
+               x:Name="memberPhotoImg"/>
+
+        <StackPanel Orientation="Vertical"
+                    Grid.Column="1"
+                    VerticalAlignment="Center"
+                    Margin="0 20 0 0">
+            <TextBlock Text="name"
+                       x:Name="nameTbl"
+                       FontSize="30"
+                       FontWeight="Black"/>
+            <TextBlock Text="surname"
+                       x:Name="surnameTbl"
+                       FontSize="30"
+                       Margin="0 10 0 0"
+                       FontWeight="Black"/>
+        </StackPanel>
+
+        <Button x:Name="clubBtn"
+                Content="Мои клубы"
+                Grid.Row="1"
+                FontSize="25"
+                Height="70"
+                Width="250"/>
+        <Button x:Name="reqtn"
+                Content="Мои заявки"
+                Grid.Row="1"
+                Grid.Column="1"
+                FontSize="25"
+                Height="70"
+                Width="250"/>
+    </Grid>
+</Page>

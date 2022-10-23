@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Admin\source\repos\ConcertnicApp\ConcertnicApp\App.xaml
-4-1380738523
+7-1808101717
 
-91594977477
+121093605276
 14-1683651327
-MainWindow.xaml;Pages\AuthorizatonPage.xaml;Pages\ConcertListPage.xaml;Pages\RegistrationPage.xaml;
+MainWindow.xaml;Pages\AboutClubWindow.xaml;Pages\AuthorizatonPage.xaml;Pages\ClubListPage.xaml;Pages\ConcertListPage.xaml;Pages\MenuPage.xaml;Pages\RegistrationPage.xaml;
 
 True
 
